@@ -4,10 +4,10 @@
 #include <WiFiClientSecure.h>
 #include <UniversalTelegramBot.h>
 
-char ssid[] = "NETJAT_PAULO HENRIQUE";
-char password[] = "994974069";
+char ssid[] = "**********";
+char password[] = "**********";
 
-#define BOTtoken "1644238684:AAHfWsQ0ZSoMuY8K9DiNJKd2-H4ONJKtQp4"
+#define BOTtoken "**********"
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
